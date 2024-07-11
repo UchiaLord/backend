@@ -1,0 +1,18 @@
+Login attempt - Username: TestOne, Password: 1233123
+Login attempt - Username: TestOne, Password: 123123
+Login attempt - Username: TestOne, Password: 123123
+Login attempt - Username: TestOne, Password: 123123
+Login attempt - Username: TestOne, Password: 123123
+Login attempt - Username: TestOne, Password: 123123
+Login attempt - Username: TestOne, Password: 123123
+1Login attempt - Username: TestOne, Password: 123123
+1Login attempt - Username: TestOne, Password: 123123
+1Login attempt - Username: TestOne, Password: 123123
+1Received data from Angular: {"username":"TestFour","password":"123123","firstname":"Testigvier","lastname":"Tester"}
+Sending response to Angular: {"success":true,"message":"Registration successful"}
+Login attempt - Username: TestOne, Password: 123123
+1Login attempt - Username: TestOne, Password: 123123
+1Login attempt - Username: TestOne, Password: 123123
+1Login attempt - Username: TestOne, Password: 123123
+1Login attempt - Username: TestOne, Password: 123123
+1

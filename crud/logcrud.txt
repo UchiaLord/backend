@@ -1,0 +1,4 @@
+Received raw POST data: {"id":11,"title":"111111111112222222222223333333333333","content":"111111111112222222222223333333333333","permissions":{"canView":false,"username":null,"canEdit":false}}
+Decoded input: {"id":11,"title":"111111111112222222222223333333333333","content":"111111111112222222222223333333333333","permissions":{"canView":false,"username":null,"canEdit":false}}
+Received note ID: 11
+Note ID: 11, Title: 111111111112222222222223333333333333, Content: 111111111112222222222223333333333333
